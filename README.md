@@ -5,7 +5,7 @@ Tools that could help for frontEnd developpement
 <a target="_blank" href="https://brumm.af/shadows">https://brumm.af/shadows</a>
 
 ### Layout
-<a target="_blank" href="https://csslayout.io/patterns/">https://csslayout.io/patterns/</a>
+<a target="_blank" href="https://csslayout.io/patterns/">Layout patern</a>
 
 ### Component
 <a target="_blank" href="https://codyhouse.co/ds/components?page=3&show=all">https://codyhouse.co/ds/components?page=3&show=all</a>
